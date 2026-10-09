@@ -2,21 +2,21 @@
 
 ## 📌 Project Overview
 
-This project analyzes e-commerce sales, customer segments, product performance, profitability, and shipping operations using Microsoft Excel, SQL Server, and Power BI.
+This project analyzes e-commerce sales, customer behavior, product performance, profitability, and shipping operations using Excel, SQL Server, and Power BI.
 
-The goal is to transform raw transaction data into meaningful business insights that support data-driven decision-making.
+The goal is to transform raw data into meaningful business insights that support data-driven decision-making.
 
 ## 🛠️ Tools & Technologies
 
 * Microsoft Excel: Data cleaning and preparation
-* SQL Server: Data querying and business analysis
-* Power BI: Interactive dashboard and KPI visualization
+* SQL Server: Data analysis and business queries
+* Power BI: Interactive dashboard and data visualization
 
 ## 🧹 Data Preparation
 
-* Reviewed and cleaned the dataset in Excel.
-* Checked data quality and prepared the cleaned CSV file.
-* Imported the dataset into SQL Server and Power BI for analysis.
+* Reviewed and cleaned the dataset using Microsoft Excel.
+* Checked data quality and prepared the cleaned dataset.
+* Imported the data into SQL Server and Power BI for analysis.
 
 ## 🔎 SQL Analysis
 
@@ -30,9 +30,9 @@ SQL queries were used to analyze:
 
 ## 📊 Power BI Dashboard
 
-The dashboard presents key performance indicators and insights into sales, profitability, quantities, and customer regions.
+The dashboard highlights key performance indicators and insights into sales, profitability, quantities, and customer regions.
 
-![E-Commerce Dashboard](dashboard.png)
+![E-Commerce Power BI Dashboard](dashboard.jpg)
 
 📄 [View the Dashboard PDF](Ecommerce.pdf)
 
@@ -45,23 +45,23 @@ The dashboard presents key performance indicators and insights into sales, profi
 
 *Results are based on the analyzed dataset.*
 
-## 💡 Business Insights & Value
+## 💡 Business Value
 
-This project helps businesses:
+This analysis helps businesses:
 
 * Identify high-performing products and categories.
-* Understand customer segments and regional sales.
-* Monitor revenue and profitability.
+* Understand customer segments and regional sales patterns.
+* Monitor sales and profitability.
 * Evaluate shipping and delivery performance.
-* Make informed, data-driven decisions.
+* Make informed, data-driven business decisions.
 
 ## 📁 Project Files
 
 * E-commerce_data_cleaned.csv — Cleaned dataset
-* E-commerce.pbix — Power BI dashboard
+* E-commerce.pbix — Power BI dashboard file
 * Commerce_Analytics_Queries.sql — SQL analysis queries
 * Ecommerce.pdf — Dashboard PDF report
-* dashboard.png — Dashboard image displayed above
+* dashboard.jpg — Dashboard image displayed above
 
 ## 👩‍💻 Author
 
