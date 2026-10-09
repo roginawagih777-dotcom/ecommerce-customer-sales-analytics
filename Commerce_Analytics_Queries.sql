@@ -37,7 +37,7 @@ FROM
     ecommerce_transactions
 GROUP BY 
     customer_segment,
-    customer_region
+    customer_region;
 
 SELECT 
     delivery_status,
